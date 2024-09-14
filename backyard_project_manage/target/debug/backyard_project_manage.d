@@ -1,0 +1,1 @@
+/Users/renren/Desktop/materials/rust-projects/backyard_project_manage/target/debug/backyard_project_manage: /Users/renren/Desktop/materials/rust-projects/backyard_project_manage/src/garden/vegetables.rs /Users/renren/Desktop/materials/rust-projects/backyard_project_manage/src/garden.rs /Users/renren/Desktop/materials/rust-projects/backyard_project_manage/src/main.rs
