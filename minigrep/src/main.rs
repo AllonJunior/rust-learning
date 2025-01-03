@@ -7,11 +7,11 @@ fn main() {
 
     let conf = Config::build(&args).unwrap_or_else(|err|
     {
-        println!("Problem occured: {err}");
+        eprintln!("Problem occured: {err}");
         process::exit(1);
     });
     if let Err(e) = minigrep::run(conf){
-        println!("Error occured: {e}");
+        eprintln!("Error occured: {e}");
         process::exit(1);
     }
    
